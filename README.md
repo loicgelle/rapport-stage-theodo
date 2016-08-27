@@ -7,9 +7,3 @@ Stage du 13/06/2016 au 30/08/2016
 ```
 git clone git@github.com:loicgelle/rapport-stage-theodo
 ```
-
-## Compilation en un fichier LaTex
-
-```
-./make.sh
-```
